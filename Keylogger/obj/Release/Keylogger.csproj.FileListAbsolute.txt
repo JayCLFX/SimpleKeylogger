@@ -1,0 +1,7 @@
+C:\Users\JayC\source\repos\Keylogger\Keylogger\bin\Release\Keylogger.exe.config
+C:\Users\JayC\source\repos\Keylogger\Keylogger\bin\Release\Keylogger.exe
+C:\Users\JayC\source\repos\Keylogger\Keylogger\bin\Release\Keylogger.pdb
+C:\Users\JayC\source\repos\Keylogger\Keylogger\obj\Release\Keylogger.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\Keylogger\Keylogger\obj\Release\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\Keylogger\Keylogger\obj\Release\Keylogger.exe
+C:\Users\JayC\source\repos\Keylogger\Keylogger\obj\Release\Keylogger.pdb
